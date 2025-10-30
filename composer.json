@@ -1,0 +1,19 @@
+{
+    "name": "paulovinicius/projeto_pi_entrega",
+    "description": "esse é oque eu vou enviar !",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Paulo Araujo",
+            "email": "paulo.araujo39@fatec.sp.gov.br"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
